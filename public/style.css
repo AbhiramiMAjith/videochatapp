@@ -37,7 +37,17 @@
   width: 50px;
   margin: 0 0.5rem;
 }
+#video{
+  justify-content :center;
+  align-items: center;
+  display: flex;
+}
 
+video{
+  height: 300px;
+  width: 400px;
+  border-radius: 1rem;
+}
 #show_chat {
   display: none;
 }
